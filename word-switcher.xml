@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<wayfire>
+    <plugin name="word-switcher">
+        <_short>Word Switcher</_short>
+        <_long>Converts last typed word layout</_long>
+        <category>Utility</category>
+        <option name="convert_key" type="key">
+            <_short>Convert key</_short>
+            <_long>Keybinding to convert the last typed word</_long>
+            <default>&lt;super&gt; KEY_SPACE</default>
+        </option>
+        <option name="dont_change_layout" type="bool">
+            <_short>Don't change layout</_short>
+            <_long>Keep the original keyboard layout after converting the word</_long>
+            <default>false</default>
+        </option>
+    </plugin>
+</wayfire>
