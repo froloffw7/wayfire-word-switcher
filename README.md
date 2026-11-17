@@ -22,7 +22,7 @@ Typed `Ghbdtn` instead of `Привет` or `руддщ` instead of `hello`? Pre
 ## Building & Installation
 
 ```bash
-git clone https://github.com<your-username>/wayfire-word-switcher.git
+git clone https://github.com/froloffw7/wayfire-word-switcher.git
 cd wayfire-word-switcher
 
 meson setup build --prefix=/usr
