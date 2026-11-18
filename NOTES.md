@@ -1,10 +1,10 @@
-# Architectural Notes & Wayland/wlroots Specifics / Архитектурные заметки и особенности Wayland / wlroots
-
 *[English](#english) | [Русский](#русский)*
 
 ---
 
 ## English
+
+# Architectural Notes & Wayland/wlroots Specifics
 
 This document summarizes the key architectural decisions and low-level Wayland / `wlroots` / `libxkbcommon` subtleties behind `wayfire-word-switcher`.
 
@@ -41,6 +41,8 @@ This document summarizes the key architectural decisions and low-level Wayland /
 ---
 
 ## Русский
+
+# Архитектурные заметки и особенности Wayland / wlroots
 
 В этом документе собраны ключевые архитектурные решения и неочевидные особенности работы с Wayland, `wlroots` и `libxkbcommon`, учтенные в `wayfire-word-switcher`.
 
